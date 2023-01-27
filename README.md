@@ -1,3 +1,3 @@
 # **Changes**
 
-- Created the Palette Component
+- Created the Palette & ColorBox Components with basic styling
