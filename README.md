@@ -3,3 +3,4 @@
 - Created the Palette & ColorBox Components with basic styling
 - Added the Copy-to-Clipboard functionality & some styles
 - Added an Overlay Animation after copying
+- Added the option to generate shades of every color
