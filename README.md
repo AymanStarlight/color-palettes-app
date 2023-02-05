@@ -8,4 +8,5 @@
 - Added the NavBar Component
 - Added a drop-down menu (Material-UI) to select different color formats
 - Added a SnackBar (Material-Ui) when the color format changes & a Palette footer
-- Integrating React Router
+- Integrated React Router to change between different Palettes
+- Created the PaletteList Component & started constructing the Home page
