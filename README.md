@@ -7,4 +7,5 @@
 - Added a slider to change the shades of colors
 - Added the NavBar Component
 - Added a drop-down menu (Material-UI) to select different color formats
-- Added a SnackBar (Material-Ui) when the color format changes
+- Added a SnackBar (Material-Ui) when the color format changes & a Palette footer
+- Integrating React Router
