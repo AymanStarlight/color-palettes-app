@@ -10,7 +10,7 @@ export class MiniPalette extends Component {
             </div>
         ))
         return (
-            <div className="root">
+            <div className="root" onClick={this.props.handleClick}>
                 <div className="colors">
                     {miniColorPalettes}
                 </div>
