@@ -11,3 +11,4 @@
 - Integrated React Router to change between different Palettes
 - Created the PaletteList Component & started constructing the Home page
 - Created the MiniPalette Component to show the palettes in the Home screen
+- Created the SingleColorPalette Component to show different color shades in it's own page
