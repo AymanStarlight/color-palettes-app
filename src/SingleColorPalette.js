@@ -5,7 +5,7 @@ import NavBar from './NavBar'
 import ColorBox from './ColorBox'
 import PaletteFooter from './PaletteFooter'
 
-export class SinglePaletteId extends Component {
+class SinglePalettePalette extends Component {
     constructor(props) {
         super(props)
         this._shades = this.gatherShades(this.props.palette, this.props.colorId)
@@ -51,4 +51,4 @@ export class SinglePaletteId extends Component {
     }
 }
 
-export default SinglePaletteId
+export default SinglePalettePalette

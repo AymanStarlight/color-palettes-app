@@ -17,7 +17,12 @@
 .nav {
 	width: 100%;
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+}
+
+.nav a {
 	color: white;
 }
 
