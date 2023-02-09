@@ -9,7 +9,17 @@
 	margin-bottom: -3.5px;
 }
 
-.copy-btn {
+.SingleColorPalette .ColorBox {
+	height: 50%;
+	margin-top: -0.19px;
+}
+
+.go-back.ColorBox {
+	background-color: black;
+}
+
+.copy-btn,
+.back-btn {
 	width: 100px;
 	height: 30px;
 	position: absolute;
@@ -25,6 +35,10 @@
 	border: none;
 	line-height: 30px;
 	color: white;
+	text-decoration: none;
+}
+
+.copy-btn {
 	opacity: 0;
 }
 
@@ -43,6 +57,10 @@
 	font-size: 12px;
 }
 
+.light-text {
+	color: white;
+}
+
 .see-more {
 	background: rgba(255, 255, 255, 0.3);
 	position: absolute;
@@ -54,6 +72,10 @@
 	height: 30px;
 	line-height: 30px;
 	text-align: center;
+}
+
+.dark-text {
+	color: rgba(0, 0, 0, 0.6);
 }
 
 .copy-overlay {

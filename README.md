@@ -7,8 +7,9 @@
 - Added a slider to change the shades of colors
 - Added the NavBar Component
 - Added a drop-down menu (Material-UI) to select different color formats
-- Added a SnackBar (Material-Ui) when the color format changes & a Palette footer
+- Added a SnackBar (Material-UI) when the color format changes & a Palette footer
 - Integrated React Router to change between different Palettes
 - Created the PaletteList Component & started constructing the Home page
 - Created the MiniPalette Component to show the palettes in the Home screen
-- Created the SingleColorPalette Component to show different color shades in it's own page
+- Created the SingleColorPalette Component to display different color shades
+- Added Dynamic Text-Color changing based on Luminosity (Chroma-Js)
